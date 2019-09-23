@@ -11,7 +11,6 @@ Designs made by adobe xd
 ![Food final](https://user-images.githubusercontent.com/55630005/65445933-eb6c3d00-de50-11e9-8422-894ead4bafa1.png)
 ![Gym final](https://user-images.githubusercontent.com/55630005/65445989-08a10b80-de51-11e9-9959-c1eb2e1adcf4.png)
 ![Resotto](https://user-images.githubusercontent.com/55630005/65446065-325a3280-de51-11e9-8429-bdcceeffe5bc.png)
-![Music Player 1](https://user-images.githubusercontent.com/55630005/65446298-ad234d80-de51-11e9-8f42-b202bb51b8e1.png)
 ![Glass Final](https://user-images.githubusercontent.com/55630005/65446423-f378ac80-de51-11e9-8cf2-17d8904750d1.png)
 ![Music Player 1](https://user-images.githubusercontent.com/55630005/65446544-35a1ee00-de52-11e9-9297-1c0370b8b522.png)
 ![Music Player 2](https://user-images.githubusercontent.com/55630005/65446639-65e98c80-de52-11e9-83cc-4a08bd048518.png)
